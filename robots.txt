@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.valkyriadefensesystems.com/sitemap.xml
